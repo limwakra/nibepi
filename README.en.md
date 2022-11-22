@@ -1,7 +1,7 @@
 # nibepi
 Follow this project on Facebook! https://www.facebook.com/groups/nibepi/<br>
-<b>Finally a imagefile running Raspberry Pi Bullseye</b><br>
-http://anerdins.se/NibePi/nibepi_1.1.1.rar<br><br>
+<b>NOTE. New image file that runs Raspberry Pi Bullseye and is prepared to run on any Raspberry Pi. Including 4.</b><br>
+[http://anerdins.se/NibePi/nibepi_1.2_rpi4_ready.img](https://anerdins.se/NibePi/nibepi_1.2_rpi4_ready.img)<br><br>
 
 ![alt text](https://github.com/bebben88/NibePi/blob/master/pics/nibepi-pic.jpg)
 NibePi is an IoT product for your Nibe heatpump
@@ -37,7 +37,7 @@ https://www.clasohlson.com/se/MicroSDHC-SDXC-minneskort-Klass-10,-Kingston/38-55
 Solder terminals or wires on A and B at the RS485 card, then stack all the cards together on a header and solder them as tight as possible against eachother for the minimal build height.<br>
 
 Download the complete image and burn to the 16GB SD-card.<br>
-http://anerdins.se/NibePi/nibepi_1.1.1.rar (1.1)<br>
+http://anerdins.se/NibePi/nibepi_1.2_rpi4_ready.img (1.2)<br>
 (Right click the link and select "Save link as")<br>
 
 On the boot partition at the SD-card (also available in Windows) there is a file called wpa_supplicant.conf, update with your own wifi credentials and save.
